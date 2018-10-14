@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>AePoP</title>
+  
+  <subtitle>( Blog on Archi-neering | Phi-Art | Design | City | The Nature of Technology )</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.aepop.com/"/>
+  <updated>2018-09-30T06:45:46.129Z</updated>
+  <id>http://www.aepop.com/</id>
+  
+  <author>
+    <name>Victor</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Live and Life Will Give You Pictures</title>
+    <link href="http://www.aepop.com/2016/12/18/Live-and-Life-Will-Give-You-Pictures/"/>
+    <id>http://www.aepop.com/2016/12/18/Live-and-Life-Will-Give-You-Pictures/</id>
+    <published>2016-12-19T03:20:22.000Z</published>
+    <updated>2018-09-30T06:45:46.129Z</updated>
+    
+    <content type="html"><![CDATA[<p>This year the two exhibitions in Barnes Foundation are great.</p><p>One is about Picasso’s works around WWI time 1912-1924.<br>“Picasso: The Great War, Experimentation and Change”<br>The other is about Masterworks of French Photography 1890-1950.<br>“Live and Life Will Give You Pictures”</p><p>The former gave me insight into Picasso. Wow, we always associate him with cubism. However, he kept experimenting and changing immediately after he established cubism.<br>The latter let me experience first-hand the real photographs about one of my favorite historical periods. I got into such a close contact with figures like Bresson and Brassai. Their masterworks intuitively painted the social and historical contexts of that period.<br>Just like the <a href="http://www.nytimes.com/2016/10/30/arts/design/barnes-foundations-director-aims-to-unpack-the-ideas-in-the-art.html?_r=0" target="_blank" rel="noopener">Barnes’ new director said:</a></p><blockquote><p>“We like to say, ‘We’ve moved, but we didn’t unpack. We want to unpack the ideas in the works themselves. That broader social, historical, ideological context.”</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;This year the two exhibitions in Barnes Foundation are great.&lt;/p&gt;
+&lt;p&gt;One is about Picasso’s works around WWI time 1912-1924.&lt;br&gt;“Picasso:
+      
+    
+    </summary>
+    
+      <category term="phi-art" scheme="http://www.aepop.com/categories/phi-art/"/>
+    
+    
+      <category term="the philadelphia story" scheme="http://www.aepop.com/tags/the-philadelphia-story/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>UX and Architect</title>
+    <link href="http://www.aepop.com/2016/11/28/UX-and-Architect/"/>
+    <id>http://www.aepop.com/2016/11/28/UX-and-Architect/</id>
+    <published>2016-11-29T04:10:08.000Z</published>
+    <updated>2018-09-30T06:45:46.141Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>“Always design a thing by considering it in its next larger context – a chair in a room, a room in a house, a house in an environment, an environment in a city plan.” Eero Saarinen<br><br><br>“A photograph is nothing more than an image created by light.” “A web application is nothing more than an experience created by design.” Tom Preston-Werner</p></blockquote><p>UX in digital world == Architect in AEC world (domain)</p><a id="more"></a><p>For both of them, the final end is delivering a great Experience, Feeling. It’s people-related. In terms of visual design, the methods include manipulating FORM (proportion, perspective) and COLOR (contrast, shade). For both, you will see the fruit (product) realizing from the concepts.</p><table><thead><tr><th>UX (ba, pm, marketer, designer)</th><th>Architect (ba, pm, marketer, designer)</th></tr></thead><tbody><tr><td><strong><em>STAGE 1: STRATEGY CONTENT PROTOTYPING</em></strong></td><td><strong><em>STAGE 1: SCHEMATIC DESIGN (SD conceptual) </em></strong></td></tr><tr><td>Determine project goals and requirements</td><td>Determine the archi program</td></tr><tr><td>Competitor Analysis and    Customer Analysis – It is the research phase of the project, when information gathering and planning happens. Understanding your target users, what their goals are, and what the goals of the product are… <br> Product Structure/Strategy  (the product functions) – Certain mockups that reflect the product functional requirements are created.</td><td>During schematic design, an architect commonly develops study drawings, documents, or other media that illustrate the concepts of the design and include spatial relationships, scale, and form for the owner to review. <br> Schematic design also is the research phase of the project, when zoning requirements or jurisdictional restrictions are discovered and addressed.</td></tr><tr><td>Deliverables: BDS TDS mockups</td><td>Deliverables: Archi Programs, Archi Drawings</td></tr><tr><td>Mockups. (on the same 2D plan though)</td><td>Plan. Utilitas (need function ) <br> Section. Firmitas (basic structural) <br> Elevation. Venustas (both visual and     engineering design. Façade design)</td></tr><tr><td><strong><em>STAGE 2 and 3: FRONT END UI DESIGN and BACKEND DB ARCHI and DESIGN </em></strong></td><td><strong><em> STAGE 2 and 3: DESIGN DEVELOPMENT  DD and CONSTRUCTION DOCUMENTS CSD </em></strong></td></tr><tr><td>Visual design could be strongly tied to engineering design. Both Frontend and Backend. Built-in Security etc</td><td>Archi, MEP, Structural drawings, Façade Visual and Engineering details</td></tr><tr><td>Deliverables: UI/UX wireframe/mockups, Frontend, Backend, DB Design Docs Revised</td><td>Deliverables: Detailed Drawings for construction bid and negotiation</td></tr><tr><td><strong><em> STAGE 4: DEVELOPEMENT (usually mixed with design and same team) </em></strong></td><td><strong><em> STAGE 4: BUILD </em></strong></td></tr><tr><td>Shorter design period and tightly coupled with build. The process of building provides ideas for design. Small scope of iteration: backend development to make sure a certain function works. Technical…</td><td>After longer design period and bidding process. If design-build method is used, it will be more similar to in house software development. However, iteration is harder due to the nature of the project. Most design has to precede build.</td></tr><tr><td>a large group of people or mass</td><td>an individual or a certain group of people</td></tr></tbody></table><blockquote><p>Design-build is a method of project delivery in which one entity – the design-build team – works under a single contract with the project owner to provide design and construction services. One entity, one contract, one unified flow of work from initial concept through completion – thereby re-integrating the roles of designer and constructor. Design-build is an alternative to the traditional design-bid-build project delivery method. – dbia.org</p></blockquote><p>To break down UX, it could also include experience design, interaction design etc.</p><blockquote><p>The Building Analogy<br>The UX Designer thinks about the garden/trees, the roads in and out to access the building, distance to shops and public transport and schools, the demographics of the residents, what the rush hours for the building are and how the mail is delivered.<br>The interaction designer takes this data (how much data they actually take depends on the mode of work) and designs the blueprint for the building – sometimes using it to role-play scenarios delivered by the UX Designer – <a href="http://axbom.com/difference-experience-designer-interaction-designer/" target="_blank" rel="noopener">http://axbom.com/difference-experience-designer-interaction-designer/</a></p></blockquote><p>REF:<br><a href="http://aia.org" target="_blank" rel="noopener">http://aia.org</a><br><a href="http://dbia.org" target="_blank" rel="noopener">http://dbia.org</a><br><a href="http://www.uxapprentice.com/discovery/" target="_blank" rel="noopener">http://www.uxapprentice.com/discovery/</a><br><a href="http://blog.careerfoundry.com/ui-design/the-difference-between-ux-and-ui-design-a-laymans-guide/" target="_blank" rel="noopener">http://blog.careerfoundry.com/ui-design/the-difference-between-ux-and-ui-design-a-laymans-guide/</a><br><a href="http://axbom.com/difference-experience-designer-interaction-designer/" target="_blank" rel="noopener">http://axbom.com/difference-experience-designer-interaction-designer/</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;“Always design a thing by considering it in its next larger context – a chair in a room, a room in a house, a house in an environment, an environment in a city plan.” Eero Saarinen&lt;br&gt;&lt;br&gt;&lt;br&gt;“A photograph is nothing more than an image created by light.” “A web application is nothing more than an experience created by design.” Tom Preston-Werner&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;UX in digital world == Architect in AEC world (domain)&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="archi-neering" scheme="http://www.aepop.com/categories/archi-neering/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>MISSING - POEM</title>
+    <link href="http://www.aepop.com/2016/11/19/MISSING/"/>
+    <id>http://www.aepop.com/2016/11/19/MISSING/</id>
+    <published>2016-11-20T03:56:58.000Z</published>
+    <updated>2018-09-30T06:50:20.803Z</updated>
+    
+    <content type="html"><![CDATA[<p>Last week,<br>I saw your left face on the left<br>in the mid night.<br>Yesterday,<br>I saw your left face on the left<br>in the late late night.<br>Today,<br>I could not see you!<br>Tomorrow,<br>I saw your right face on the right<br>in the early early night.<br>Next week,<br>Will I see your right face on the right<br>in the mid night?<br>Where are you?</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Last week,&lt;br&gt;I saw your left face on the left&lt;br&gt;in the mid night.&lt;br&gt;Yesterday,&lt;br&gt;I saw your left face on the left&lt;br&gt;in the late late
+      
+    
+    </summary>
+    
+      <category term="poetry" scheme="http://www.aepop.com/categories/poetry/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Modernism</title>
+    <link href="http://www.aepop.com/2016/11/05/Modernism/"/>
+    <id>http://www.aepop.com/2016/11/05/Modernism/</id>
+    <published>2016-11-06T02:25:34.000Z</published>
+    <updated>2018-09-30T06:45:46.133Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="phi-art" scheme="http://www.aepop.com/categories/phi-art/"/>
+    
+    
+      <category term="the philadelphia story" scheme="http://www.aepop.com/tags/the-philadelphia-story/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Beaux-Arts + Second Empire</title>
+    <link href="http://www.aepop.com/2016/11/05/Beaux-Arts-Second-Empire/"/>
+    <id>http://www.aepop.com/2016/11/05/Beaux-Arts-Second-Empire/</id>
+    <published>2016-11-06T02:10:42.000Z</published>
+    <updated>2018-09-30T06:45:46.126Z</updated>
+    
+    <content type="html"><![CDATA[<p>Neo-Baroque (Baroque Revival) Second-Empire<br>Neo-Classical Beaux-Arts</p><p>City-Hall 1901<br>Wells Fargo Building 1928</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Neo-Baroque (Baroque Revival) Second-Empire&lt;br&gt;Neo-Classical Beaux-Arts&lt;/p&gt;
+&lt;p&gt;City-Hall 1901&lt;br&gt;Wells Fargo Building 1928&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="phi-art" scheme="http://www.aepop.com/categories/phi-art/"/>
+    
+    
+      <category term="the philadelphia story" scheme="http://www.aepop.com/tags/the-philadelphia-story/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Arts and Crafts</title>
+    <link href="http://www.aepop.com/2016/11/05/Arts-and-Crafts/"/>
+    <id>http://www.aepop.com/2016/11/05/Arts-and-Crafts/</id>
+    <published>2016-11-06T02:10:11.000Z</published>
+    <updated>2018-09-30T06:45:46.125Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="phi-art" scheme="http://www.aepop.com/categories/phi-art/"/>
+    
+    
+      <category term="the philadelphia story" scheme="http://www.aepop.com/tags/the-philadelphia-story/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Art Nouveau</title>
+    <link href="http://www.aepop.com/2016/11/05/Art-Nouveau/"/>
+    <id>http://www.aepop.com/2016/11/05/Art-Nouveau/</id>
+    <published>2016-11-06T02:09:53.000Z</published>
+    <updated>2018-09-30T06:45:46.125Z</updated>
+    
+    <content type="html"><![CDATA[<p>Vienna Secessionists<br>German Jugendstil</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Vienna Secessionists&lt;br&gt;German Jugendstil&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="phi-art" scheme="http://www.aepop.com/categories/phi-art/"/>
+    
+    
+      <category term="the philadelphia story" scheme="http://www.aepop.com/tags/the-philadelphia-story/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Art Deco</title>
+    <link href="http://www.aepop.com/2016/11/05/Art-Deco/"/>
+    <id>http://www.aepop.com/2016/11/05/Art-Deco/</id>
+    <published>2016-11-06T00:25:05.000Z</published>
+    <updated>2018-09-30T06:45:46.124Z</updated>
+    
+    <content type="html"><![CDATA[<p>210 W Washington Square<br>Art Institute of Philadelphia<br>Pennsylvania Railroad Suburban Station<br>The Pepper Building 1830 Lombard,  1928, Northup &amp; O’Brien<br>Perelman Building<br><a id="more"></a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;210 W Washington Square&lt;br&gt;Art Institute of Philadelphia&lt;br&gt;Pennsylvania Railroad Suburban Station&lt;br&gt;The Pepper Building 1830 Lombard,  1928, Northup &amp;amp; O’Brien&lt;br&gt;Perelman Building&lt;br&gt;
+    
+    </summary>
+    
+      <category term="phi-art" scheme="http://www.aepop.com/categories/phi-art/"/>
+    
+    
+      <category term="the philadelphia story" scheme="http://www.aepop.com/tags/the-philadelphia-story/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MY DEAR NATURE - POEM</title>
+    <link href="http://www.aepop.com/2016/11/01/MY-DEAR-NATURE/"/>
+    <id>http://www.aepop.com/2016/11/01/MY-DEAR-NATURE/</id>
+    <published>2016-11-02T01:34:11.000Z</published>
+    <updated>2018-09-30T06:45:46.133Z</updated>
+    
+    <content type="html"><![CDATA[<p>The nature likes me<br>during all the seasons.<br><a id="more"></a><br>My car hood is,<br>her creative canvas.<br>Spring,<br>impressionism’s rain drops.<br>Summer,<br>abstract expressionism’s bird poops.<br>Autumn,<br>realism’s fallen leaves.<br>Winter,<br>cubism’s ice flowers.<br>Oh my dear nature,<br>Are you<br>making me gratified<br>or<br>leaving me occupied?</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;The nature likes me&lt;br&gt;during all the seasons.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="poetry" scheme="http://www.aepop.com/categories/poetry/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Bob Dylan and William Faulkner</title>
+    <link href="http://www.aepop.com/2016/10/30/Bob-Dylan-and-william-faulkner/"/>
+    <id>http://www.aepop.com/2016/10/30/Bob-Dylan-and-william-faulkner/</id>
+    <published>2016-10-30T23:01:15.000Z</published>
+    <updated>2018-09-30T06:45:46.128Z</updated>
+    
+    <content type="html"><![CDATA[<p>Bob Dylan’s Nobel Prize is somewhat surprising.<br>2 years ago, when I walked past the Academy of Music in Philly and  saw that Bob Dylan was holding a concert inside. I was quite surprised and I realized he was actually still healthy and active. This was probably when I was closest to a Nobel Prize winner.<br><a id="more"></a></p><p>At that time, I was not liking his songs a whole lot. maybe I didn’t read into his songs? Today, I reviewed his early work “Oxford Town”. It turned out to be quite a unique and poetic song.</p><p>“Oxford Town”</p><p>Oxford Town, Oxford Town<br>Ev’rybody’s got their hats bowed down<br>The sun don’t shine above the ground<br>Ain’t a-goin’ down to Oxford Town.</p><p>He went down to Oxford Town<br>Guns and clubs followed him down<br>All because his face was brown<br>Better get away from Oxford Town.</p><p>Oxford Town around the bend<br>He comes to the door, he couln’t get in<br>All because of the color of his skin<br>What do you think about that, my frien’ ?</p><p>Me and my gal, my gal’s son<br>We got met with a tear gas bomb<br>I don’t even know why we come<br>Goin’ back where we come from.</p><p>Oxford Town in the afternoon<br>Ev’rybody singin’ a sorrowful tune<br>Two men died ‘neath the Mississippi moon<br>Somebody better investigate soon.</p><p><a href="https://www.youtube.com/watch?v=W9oJZX4BaI8" target="_blank" rel="noopener">https://www.youtube.com/watch?v=W9oJZX4BaI8</a></p><p>I have visited that “Oxford Town” 8 years ago, which is a small, quaint and beautiful town. Another Nobel Prize winner – William Faulkner –was born and lived in that town before. I got a chance to visit his house then. An interesting fact is that Dylan created the song in 1962, which was the year that historical event happened and also the year Faulkner died.</p><p>The difference between loneliness and solitude. What a strong-willed man!</p><blockquote><p>…writing is a solitary job–that is, nobody can help you with it, but there is nothing lonely about it. I have always been too busy, too immersed in what I was doing, either mad at it or laughing at it to have time to wonder whether I was lonely or not lonely, it’s simply solitary. I think there is a difference between loneliness and solitude. –Faulkner</p></blockquote><p>I was quite moved by his 1950 Nobel Prize acceptance speech before:</p><blockquote><p>I believe man will not merely endure, he will prevail. He is immortal, not because he, alone among creatures, has an inexhaustible voice but because he has a soul, a spirit capable of compassion and sacrifice and endurance.  –Faulkner</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Bob Dylan’s Nobel Prize is somewhat surprising.&lt;br&gt;2 years ago, when I walked past the Academy of Music in Philly and  saw that Bob Dylan was holding a concert inside. I was quite surprised and I realized he was actually still healthy and active. This was probably when I was closest to a Nobel Prize winner.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="poetry" scheme="http://www.aepop.com/categories/poetry/"/>
+    
+    
+      <category term="tale of 4 cities" scheme="http://www.aepop.com/tags/tale-of-4-cities/"/>
+    
+      <category term="the philadelphia story" scheme="http://www.aepop.com/tags/the-philadelphia-story/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Steve McCurry&#39;s Afghanistan</title>
+    <link href="http://www.aepop.com/2016/10/18/Steve-McCurry-s-Afghanistan/"/>
+    <id>http://www.aepop.com/2016/10/18/Steve-McCurry-s-Afghanistan/</id>
+    <published>2016-10-19T03:01:24.000Z</published>
+    <updated>2018-09-30T06:45:46.137Z</updated>
+    
+    <content type="html"><![CDATA[<p>Unguarded, Untold, Iconic: Afghanistan through the Lens of Steve McCurry</p><p>Afghanistan through the lens of McCurry is so beautiful and mystic. I feel the photographs try to grab those deep philosophical concepts. I was fascinated by both the place and the book extracts (Caravans by James A. Michener). It gave me a strong urge to visit the place and read the book. Maybe that’s the magic of art, it inspires you beyond the works itself.</p><blockquote><p>She said that we are essentially desert animals and that life is meant to be harsh. When we live in an oasis like Philadelphia or Munich, we become degenerate and lose touch with our origins.</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Unguarded, Untold, Iconic: Afghanistan through the Lens of Steve McCurry&lt;/p&gt;
+&lt;p&gt;Afghanistan through the lens of McCurry is so beautiful a
+      
+    
+    </summary>
+    
+      <category term="phi-art" scheme="http://www.aepop.com/categories/phi-art/"/>
+    
+    
+      <category term="the philadelphia story" scheme="http://www.aepop.com/tags/the-philadelphia-story/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>The Life and Death of My Web</title>
+    <link href="http://www.aepop.com/2016/09/30/The-Life-and-Death-of-My-Web/"/>
+    <id>http://www.aepop.com/2016/09/30/The-Life-and-Death-of-My-Web/</id>
+    <published>2016-10-01T00:47:24.000Z</published>
+    <updated>2018-09-30T06:45:46.141Z</updated>
+    
+    <content type="html"><![CDATA[<p>My website was created in 2014.<br>It went though many rounds of rebirth.<br>Initially, it’s some static web pages with an integrated WordPress blog. The frontend is mostly JQuery-based.<br><a id="more"></a><br>In 2015, I restructured the codes to make it simpler and dynamic. PHP is used for backend templating.<br>In 2016, I revamped both my website and blog.<br>Now the website has an AngularJS frontend and a NodeJS backend.<br>It also contains an external link to the blog.<br>The blog is now built on top of Hexo, a simple framework powered by NodeJS.</p><p>The url is always evolving:<br><a href="http://www.aepop.com/art/photo/photo1.html">www.aepop.com/art/photo/photo1.html</a><br><a href="http://www.aepop.com/art/art.php?p=1&amp;cat=photo">www.aepop.com/art/art.php?p=1&amp;cat=photo</a><br><a href="http://www.aepop.com/#/phi-art/photo/1">www.aepop.com/#/phi-art/photo/1</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;My website was created in 2014.&lt;br&gt;It went though many rounds of rebirth.&lt;br&gt;Initially, it’s some static web pages with an integrated WordPress blog. The frontend is mostly JQuery-based.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="archi-neering" scheme="http://www.aepop.com/categories/archi-neering/"/>
+    
+    
+      <category term="computers" scheme="http://www.aepop.com/tags/computers/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Pennsylvania Railroad</title>
+    <link href="http://www.aepop.com/2016/08/30/Pennsylvania-Railroad/"/>
+    <id>http://www.aepop.com/2016/08/30/Pennsylvania-Railroad/</id>
+    <published>2016-08-30T21:34:16.000Z</published>
+    <updated>2018-09-30T06:45:46.136Z</updated>
+    
+    <content type="html"><![CDATA[<p>H.L Mencken’s “The Libido for the Ugly” definitely touches a nerve with me.</p><p>On a Winter day some years ago, coming out of Pittsburgh on one of the expresses of the Pennsylvania Railroad, I rolled eastward for an hour through the coal and steel towns of Westmoreland county.<br><a id="more"></a><br>It was familiar ground; boy and man, I had been through it often before. But somehow I had never quite sensed its appalling desolation. Here was the very heart of industrial America, the center of its most lucrative and characteristic activity, the boast and pride of the richest and grandest nation ever seen on earth–and here was a scene so dreadfully hideous, so intolerably bleak and forlorn that it reduced the whole aspiration of man to a macabre and depressing joke.</p><p>Here was wealth beyond computation, almost beyond imagination–and here were human habitations so abominable that they would have disgraced a race of alley cats.</p><p>I am not speaking of mere filth. One expects steel towns to be dirty. What I allude to is the unbroken and agonizing ugliness, the sheer revolting monstrousness, of every house in sight. From East Liberty to Greensburg, a distance of twenty-five miles, there was not one in sight from the train that did not insult and lacerate the eye. Some were so bad, and they were among the most pretentious–churches, stores, warehouses, and the like–that they were downright startling; one blinked before them as one blinks before a man with his face shot away. A few linger in memory, horrible even there: a crazy little church just west of Jeannette, set like a dormer-window on the side of a bare, leprous hill; the headquarters of the Veterans of Foreign Wars at another forlorn town, a steel stadium like a huge rat-trap somewhere further down the line. But most of all I recall the general effect–of hideousness without a break. There was not a single decent house within eye-range from the Pittsburgh suburbs to the Greensburg yards. There was not one that was not misshapen, and there was not one that was not shabby.</p><p>The country itself is not uncomely, despite the grime of the endless mills. It is, in form, a narrow river valley, with deep gullies running up into the hills. It is thickly settled, but not noticeably overcrowded. There is still plenty of room for building, even in the larger towns, and there are very few solid blocks. Nearly every house, big and little, has space on all four sides. Obviously, if there were architects of any professional sense or dignity in the region, they would have perfected a chalet to hug the hillsides–a chalet with a high-pitched roof, to throw off the heavy Winter storms, but still essentially a low and clinging building, wider than it was tall. But what have they done? They have taken as their model a brick set on end. This they have converted into a thing of dingy clapboards, with a narrow, low-pitched roof. And the whole they have set upon thin, preposterous brick piers. By the hundreds and thousands these abominable houses cover the bare hillsides, like gravestones in some gigantic and decaying cemetery on their deep sides they are three, four and even five stories high; on their low sides they bury themselves swinishly in the mud. Not a fifth of them are perpendicular. They lean this way and that, hanging on to their bases precariously. And one and all they are streaked in grime, with dead and eczematous patches of paint peeping through the streaks.</p><p>Now and then there is a house of brick. But what brick! When it is new it is the color of a fried egg. When it has taken on the patina of the mills it is the color of an egg long past all hope or caring. Was it necessary to adopt that shocking color? No more than it was necessary to set all of the houses on end. Red brick, even in a steel town, ages with some dignity. Let it become downright black, and it is still sightly, especially if its trimmings are of white stone, with soot in the depths and the high spots washed by the rain. But in Westmoreland they prefer that uremic yellow, and so they have the most loathsome towns and villages ever seen by mortal eye.</p><p>I award this championship only after laborious research and incessant prayer. I have seen, I believe, all of the most unlovely towns of the world; they are all to be found in the United States. I have seen the mill towns of decomposing New England and the desert towns of Utah, Arizona and Texas. I am familiar with the back streets of Newark, Brooklyn and Chicago, and have made scientific explorations to Camden, N.J. and Newport News, Va. Safe in a Pullman, I have whirled through the gloomy, God-forsaken villages of Iowa and Kansas, and the malarious tide-water hamlets of Georgia. I have been to Bridgeport, Conn., and to Los Angeles. But nowhere on this earth, at home or abroad, have I seen anything to compare to the villages that huddle along the line of the Pennsylvania from the Pittsburgh yards to Greensburg. <strong><strong>They are incomparable in color, and they are incomparable in design.</strong></strong> It is as if some titanic and aberrant genius, uncompromisingly inimical to man, had devoted all the ingenuity of Hell to the making of them. They show grotesqueries of ugliness that, in retrospect, become almost diabolical. One cannot imagine mere human beings concocting such dreadful things, and one can scarcely imagine human beings bearing life in them.</p><p>Are they so frightful because the valley is full of foreigners–dull, insensate brutes, with no love of beauty in them? Then why didn’t these foreigners set up similar abominations in the countries that they came from? You will, in fact, find nothing of the sort in Europe save perhaps in the more putrid parts of England. There is scarcely an ugly village on the whole Continent. The peasants, however poor, somehow manage to make themselves graceful and charming habitations, even in Spain. But in the American village and small town the pull is always toward ugliness, and in that Westmoreland valley it has been yielded to with an eagerness bordering upon passion. It is incredible that mere ignorance should have achieved such masterpieces of horror.</p><p>On certain levels of the American race, indeed, there seems to be a positive libido for the ugly, as on other and less Christian levels there is a libido for the beautiful. It is impossible to put down the wallpaper that defaces the average American home of the lower middle class to mere inadvertence, or to the obscene humor of the manufacturers. Such ghastly designs, it must be obvious, give a genuine delight to a certain type of mind. They meet, in some unfathomable way, its obscure and unintelligible demands. They caress it as “The Palms” caresses it, or the art of Landseer, or the ecclesiastical architecture of the United States. The taste for them is as enigmatical and yet as common as the taste for vaudeville, dogmatic theology, sentimental movies, and the poetry of Edgar A. Guest. Or for the metaphysical speculations of Arthur Brisbane. Thus I suspect (though confessedly without knowing) that the vast majority of the honest folk of Westmoreland county, and especially the 100% Americans among them, actually admire the houses they live in, and are proud of them. For the same money they could get vastly better ones, but they prefer what they have got. Certainly there was no pressure upon the Veterans of Foreign Wars to choose the dreadful edifice that bears their banner, for there are plenty of vacant buildings along the trackside, and some of them are appreciably better. They might, indeed, have built a better one of their own. But they chose that clapboarded horror with their eyes open, and having chosen it, they let it mellow into its present shocking depravity. They like it as it is: beside it, the Parthenon would no doubt offend them. In precisely the same way the authors of the rat-trap stadium that I have mentioned made a deliberate choice. After painfully designing and erecting it, they made it perfect in their own sight by putting a completely impossible pent-house, painted a staring yellow, on top of it. The effect is that of a fat woman with a black eye. It is that of a Presbyterian grinning. But they like it.</p><p>Here is something that the psychologists have so far neglected:<br><strong>the love of ugliness for its own sake, the lust to make the world intolerable.</strong><br>Its habitat is the United States. Out of the melting pot emerges a race which hates beauty as it hates truth. The etiology of this madness deserves a great deal more study than it has got. There must be causes behind it; it arises and flourishes in obedience to biological laws, and not as a mere act of God. What, precisely, are the terms of those laws? And why do they run stronger in America than elsewhere? Let some honest Privat Dozent in pathological sociology apply himself to the problem.</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;H.L Mencken’s “The Libido for the Ugly” definitely touches a nerve with me.&lt;/p&gt;
+&lt;p&gt;On a Winter day some years ago, coming out of Pittsburgh on one of the expresses of the Pennsylvania Railroad, I rolled eastward for an hour through the coal and steel towns of Westmoreland county.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="phi-art" scheme="http://www.aepop.com/categories/phi-art/"/>
+    
+    
+      <category term="design" scheme="http://www.aepop.com/tags/design/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Bruce Mau</title>
+    <link href="http://www.aepop.com/2016/04/08/Bruce-Mau/"/>
+    <id>http://www.aepop.com/2016/04/08/Bruce-Mau/</id>
+    <published>2016-04-09T03:56:58.000Z</published>
+    <updated>2018-09-30T06:45:46.128Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>Quantify and Visualize. Seeing is believing.<blockquote><p>We are entering the era of big data, and things that we think of as qualitative can be understood quantitatively…social movements, moods, conversations, emotional interactions. We can only see the data and the computational mechanics behind it if we design a visual interface for it.</p></blockquote></li></ul><ul><li>Design the Invisible<blockquote><p>Contrary to popular belief, most design is not visual. Design is everywhere–and more than meets the eye. Much of it is invisible, deeply integrated into every aspect of our daily lives. In going beyond the surface, designers can reimagine and re-engineer the hidden systems behind cultural, economic, and environmental structures.</p></blockquote></li></ul><p>Photo are taken from the PMA exhibition “Work on What You Love: Bruce Mau Rethinking Design” in early 2016.<br><a id="more"></a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;ul&gt;
+&lt;li&gt;Quantify and Visualize. Seeing is believing.&lt;blockquote&gt;
+&lt;p&gt;We are entering the era of big data, and things that we think of as qualitative can be understood quantitatively…social movements, moods, conversations, emotional interactions. We can only see the data and the computational mechanics behind it if we design a visual interface for it.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Design the Invisible&lt;blockquote&gt;
+&lt;p&gt;Contrary to popular belief, most design is not visual. Design is everywhere–and more than meets the eye. Much of it is invisible, deeply integrated into every aspect of our daily lives. In going beyond the surface, designers can reimagine and re-engineer the hidden systems behind cultural, economic, and environmental structures.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Photo are taken from the PMA exhibition “Work on What You Love: Bruce Mau Rethinking Design” in early 2016.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="phi-art" scheme="http://www.aepop.com/categories/phi-art/"/>
+    
+    
+      <category term="design" scheme="http://www.aepop.com/tags/design/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Fixing flat tires and fixing bugs. Easy?</title>
+    <link href="http://www.aepop.com/2015/12/28/fixing-flat-tires-and-fixing-bugs-easy/"/>
+    <id>http://www.aepop.com/2015/12/28/fixing-flat-tires-and-fixing-bugs-easy/</id>
+    <published>2015-12-28T05:20:56.000Z</published>
+    <updated>2018-09-30T06:45:46.150Z</updated>
+    
+    <content type="html"><![CDATA[<p>Anybody who works in the IT field will have the experience of fixing bugs. Sometimes, you or your boss think a bug is so easy and think it could be fixed in a second. It turns out to be a days-long job and … nightmare.<br><a id="more"></a><br>Sometimes, it is not that the problem itself is difficult. It is …</p><p>Fixing a flat tire could be an easy or difficult job. It’s actually not different from fixing bugs.<br>Today’s fixing a bike tire cost me 6 hours. Several years ago back at school, I could fix a flat tire in 30 min.<br>Well, the last time I did this was about 3 or 4 years ago. So, the unfamiliarity and lacking some tools is a cause. However, look at the time breakdown.</p><p>1. Brain storming all the tools needed and their location and searching for them. (30 min)<br>(pump, pressure gauge, wrench, levers, sand, patch, glue, a large container with water ) It’s not easy to find everything because I haven’t done it for a while as I mentioned.<br>2. Routine steps (45 min)<br>Taking the inside tube out, sanding, applying glue and patch, waiting, testing, putting it back into the tire, inflating, etc (could be faster, but got rusty in some steps.)<br>Because I don’t have rubber cement available, I wanted to use another cement instead, it turned out not working.<br>3. Disappointed! and thinking about whether to give up or find other solutions. (15 min)<br>4. Deciding to shop for rubber cement or repair kit.<br>The trip back and forth (30 min)<br>In the store, firstly a small store and then Walmart (&lt;60 min)<br>Searching in the bike section, no rubber cement or repair kit. Asked around. they don’t know either.<br>Searching all the aisles back and forth. I finally found it in the automobile section.<br>Waiting in the queue for check out.<br>5. Very happy. fixing it right away and photographing my achievement. (45 min)<br>6. Test riding happily in the local neighborhood (15 min)<br>7. Crying because it got flat again.<br>8. Examining the cause. (30 min)<br>It turns out another spot is punctured and the fixed spot is good. Ouch. I missed one important step, which is to mark and examine the tire for potential glass or nail pieces in the first place. So I searched all the way around the inside of the tire and found that piece of sharp glass. Removed it.<br>9. Repeating step 2 again and double checked it worked this time. (45 min)<br>10. Relieved and happy. Storing tools back into their place (15 min)<br>11. Thinking about what in the earth happened today and wrote this blog (&gt;30 min)</p><p>If you read the above carefully, sound familiar to you, too?</p><p>If you think carefully, you would know that the bottleneck is<br>1. Searching. It takes a long time, both at home and store. While at software level, searching now is so easy. However, in terms of real life objects, searching is still difficult. Let’s envision the future. If I say: “wrench wrench come come”, it will automatically appear in front of your eyes, faster than a google search. How much time could this save? With the IoT getting popular, this should be able to easily done, we can tag the tools and their containers and make them smart!<br>2. Forgetting a single key step in a long tedious steps. Well, if we have a digital personal assistant and when I shout to him “what’s the key steps when fixing a flat tire?”, he would reply blah blah. How nice could this be!</p><p>BTW, the future is promising. However, if it becomes so easy to fix a tire and bug in the future, what do we do in the free time? Sleeping?</p><p>Got to go to bed. haven’t prepared business causal for tomorrow yet. By the way, bug fixing is no different from fixing other things. I just feel that a professional bug fixer / professional tire fixer / professional plumber doesn’t match well with business casual. Don’t you think some pants with fresh paints are more suitable for computer bug fixers?</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Anybody who works in the IT field will have the experience of fixing bugs. Sometimes, you or your boss think a bug is so easy and think it could be fixed in a second. It turns out to be a days-long job and … nightmare.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="archi-neering" scheme="http://www.aepop.com/categories/archi-neering/"/>
+    
+    
+      <category term="computers" scheme="http://www.aepop.com/tags/computers/"/>
+    
+      <category term="the nature of technology" scheme="http://www.aepop.com/tags/the-nature-of-technology/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PSFS</title>
+    <link href="http://www.aepop.com/2015/11/01/PSFS/"/>
+    <id>http://www.aepop.com/2015/11/01/PSFS/</id>
+    <published>2015-11-01T23:40:33.000Z</published>
+    <updated>2018-09-30T06:45:46.134Z</updated>
+    
+    <content type="html"><![CDATA[<p>I was able to see the antenna spire - “shining beacon” at night when I lived in the city.<br>First modernism high-rise. It is indeed a shining beacon for the future tall buildings. Its influence is still felt today.</p><blockquote><p>The Functional architect delights in the huge torso swaying on tendoned ankles. He wourld no more attach false stone pedestals on them than he would put lead shoes on Pegasus. –George Howe<br><a id="more"></a></p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;I was able to see the antenna spire - “shining beacon” at night when I lived in the city.&lt;br&gt;First modernism high-rise. It is indeed a shining beacon for the future tall buildings. Its influence is still felt today.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The Functional architect delights in the huge torso swaying on tendoned ankles. He wourld no more attach false stone pedestals on them than he would put lead shoes on Pegasus. –George Howe&lt;br&gt;
+    
+    </summary>
+    
+      <category term="archi-neering" scheme="http://www.aepop.com/categories/archi-neering/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>From Phonograph to CD</title>
+    <link href="http://www.aepop.com/2015/10/27/from-phonograph-to-cd/"/>
+    <id>http://www.aepop.com/2015/10/27/from-phonograph-to-cd/</id>
+    <published>2015-10-28T03:06:07.000Z</published>
+    <updated>2018-09-30T06:45:46.150Z</updated>
+    
+    <content type="html"><![CDATA[<p>When I inserted a dusty old CD into my computer today (my CD drive in my laptop has not been used for over 2 years, gladly it still run), magically some beautiful rhythm from Celine Dion just refreshed the air in my room. Oh, that’s Titanic’s theme song, “My heart will go on.” The music dragged me back to my middle school. That’s the time when Titanic got really popular and I just started learning ABC in English. I remember one of my classmates and I shouting the song in the classroom after school. OK, it also made me wonder how does this magic happen, really?<br><a id="more"></a></p><p>“my heart will go on and on. Love can touch us one time and last for a life time. And never let go till we are gone”  Wait, wait. But how about technology. CD touched us one time and last just a few decades. And we let it go long before we are gone. Haha, this is not a joke but a fact. Music player technology advances too fast before we even have time to review its progress.</p><p>Let’s trace it back 200 years to two Thomas.</p><p>Firstly 1807, Thomas Young invented a revolving drum chronograph. He described in his Lectures on Natural Philosophy (1807). “His apparatus was a metal cylinder round which was wrapped a sheet of paper coated with lamp-black. The cylinder was turned on its axis, and a bristle attached to a tuning fork placed to trace on the paper the movements of the vibrating prong.”</p><p>Then, 1870s, Thomas Edison invented phonograph, which recorded sound onto tinfoil sheet phonograph cylinder using an exposed horn.</p><p>For about half of a century, recording was done by this kind of mechanical method, although the storage medium changed to 2D vinyl record.</p><p>Finally, electrical domain transformed the music recording and playing devices. Microphone was added and amplification could be realized. The following YouTube videos give you some intuitive feelings.</p><p>1900 mechanical</p><p><a href="https://www.youtube.com/watch?v=Rs0hLJ9sLLk" target="_blank" rel="noopener">https://www.youtube.com/watch?v=Rs0hLJ9sLLk</a></p><p>1930 electrical</p><p><a href="https://www.youtube.com/watch?v=svqhU9TEnAs" target="_blank" rel="noopener">https://www.youtube.com/watch?v=svqhU9TEnAs</a></p><p>Oh, don’t forget the jukebox, it’s another milestone! The photo shows the jukebox I encountered a few weeks ago. Bob maintained it very well. It attracted a large crowd, young and old. It also added dynamics to the community. This is not a modern computer or iphone can achieve.</p><p>Then we finally have CD, which is based on laser technology.</p><p>One thing to note is why it takes so long (half a century) for music recording and playing to adopt electronic tech?</p><p>A good argument comes from Brian Arthur’s “coadaptation” and “structural change” theory.  The devices cannot just adopt the new tech. Essentially, re-architecting existing structure of economy to make use of the new tech needs a lot of efforts. In this case, it’s accommodating the recording device to the new technology. This is actually the process of new electrical DOMAIN build-out and development. It’s also a process of coadapation with the economy, leading to its structural change. It takes time, decades. This change also DEFINES our time, though.</p><p>&nbsp;</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;When I inserted a dusty old CD into my computer today (my CD drive in my laptop has not been used for over 2 years, gladly it still run), magically some beautiful rhythm from Celine Dion just refreshed the air in my room. Oh, that’s Titanic’s theme song, “My heart will go on.” The music dragged me back to my middle school. That’s the time when Titanic got really popular and I just started learning ABC in English. I remember one of my classmates and I shouting the song in the classroom after school. OK, it also made me wonder how does this magic happen, really?&lt;br&gt;
+    
+    </summary>
+    
+      <category term="archi-neering" scheme="http://www.aepop.com/categories/archi-neering/"/>
+    
+    
+      <category term="computers" scheme="http://www.aepop.com/tags/computers/"/>
+    
+      <category term="the nature of technology" scheme="http://www.aepop.com/tags/the-nature-of-technology/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>95 Years Ago: Albert Barnes&#39; letter to Mrs Dewey</title>
+    <link href="http://www.aepop.com/2015/09/20/95-years-ago-albert-barnes-letter-to-mrs-dewey/"/>
+    <id>http://www.aepop.com/2015/09/20/95-years-ago-albert-barnes-letter-to-mrs-dewey/</id>
+    <published>2015-09-20T07:39:00.000Z</published>
+    <updated>2018-09-30T06:45:46.123Z</updated>
+    
+    <content type="html"><![CDATA[<p>There are always some interesting coincidence in my life. In early August, I happened to find an Albert Barnes’ letter to Mrs Dewey (John Dewey’s wife) at Barnes Foundation and was really surprised at Mr. Barnes insight into education.<br><a id="more"></a><br>Today, his ideas came to me and I felt urged to copy down the last two paragraphs to this blog. When I looked at the date of the letter, September 20th, 1920. Exactly 95 years ago! Wow.</p><p>Here it is:</p><p>I believe Democracy and Education is stuck until a practical plan is evolved to eliminate the residuum of the unconscious past, to stifle imitation, to create spontaneous interest in the <strong>worth-while things</strong> that make up progress. This inertia that comes from imitation is nicely analyzed by Santayana (Chapter 8, Reason in Art) and I believe if Mr. Dewey would begin where Santayana ends, something of real value might come of it.</p><p>If a successful life means an adjustment to one’s environment, I’ve been a failure. When I adjust to the people around me, I sink to lower levels of intelligence and am soon disgusted. If I go on to the higher levels, it’s a damned lonesome life. My most satisfactory adjustments are with artists and thinkers but as I don’t live with such people, the life that touches me most deeply, is the vicarious (second-hand) one with books, paintings, and music; but I am so human that the substitutes lack the satisfaction that only human beings give. I feel something like *Henry Adams did after he spent half a century in pursing education; but I disagree with him about the ability to get an intelligent education. My wail is that when you get what you are able to carry, you’re doomed to a <strong>maladjustment</strong> because when you try to pass education on to others, futility is its full name.</p><p>&nbsp;</p><p>Note: Henry Adams (1838-1918) . His work THE EDUCATION OF HENRY ADAMS was finished at 1907 and won the 1919 Pulitzer Prize.</p><p>*”Many aspects of the contemporary world emerged during the half-century between the Civil War and World War I, a half-century coinciding with Adams’s adult life.”<br>“Adams repeatedly laments that his formal education, grounded in the classics, history, and literature, as was then the fashion, did not give him the scientific and mathematical knowledge needed to grasp the scientific breakthroughs of the 1890s and 1900s.”</p><p>When I found the above introduction at Wikipedia,  I was thinking: every era really has its own fashion. Now the fashion is exactly opposite. Science and tech becomes the hot topic while classics, history and literature are definitely in the cold room. I am not sure which fashion is better? Why not combine this two fashions?</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;There are always some interesting coincidence in my life. In early August, I happened to find an Albert Barnes’ letter to Mrs Dewey (John Dewey’s wife) at Barnes Foundation and was really surprised at Mr. Barnes insight into education.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="phi-art" scheme="http://www.aepop.com/categories/phi-art/"/>
+    
+    
+      <category term="tale of 4 cities" scheme="http://www.aepop.com/tags/tale-of-4-cities/"/>
+    
+      <category term="the philadelphia story" scheme="http://www.aepop.com/tags/the-philadelphia-story/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Maeda&#39;s Design Sense</title>
+    <link href="http://www.aepop.com/2015/08/26/maedas-design-sense/"/>
+    <id>http://www.aepop.com/2015/08/26/maedas-design-sense/</id>
+    <published>2015-08-26T19:35:45.000Z</published>
+    <updated>2018-09-30T06:45:46.154Z</updated>
+    
+    <content type="html"><![CDATA[<p>I came across an article titled “Design Sense” in a FastCompany’s magazine. The topic is about the former president of RISD (Rhode Island School of Design), John Maeda.<br><a id="more"></a><br>Some thoughts are very interesting and I resonated with many of them. I am also constantly inspired by the history of Industrial Revolution, the automobile and computer. For example, from the history of automobile, I can see that without horse carriages, there would not be automobiles!</p><p>I also share his idea of “going dark.” We could be deeply trapped!</p><p>About that Spring Counter, it’s simple but yet meaningful. I think that’s what most of programs lack these days.</p><p>&nbsp;</p><p>Here is what he says:</p><p>==Who would be on his list of most creative people?</p><p>“Paola Antonelli, senior curator at New York’s Museum of Modern Art. “She predicts the patterns in culture and industry that we need to care about now and in the future.””</p><p>==What inspires him?</p><p>“History: the history of the Industrial Revolution, the history of the automobile, the history of computer. And it’s excited me to see that these are just patterns.”</p><p>==Quirky side project</p><p>“I wrote a program called Spring Counter. You type in how old you are and it tells you how many springs you have left to live. It shows you all the flowers that are left in your life and the ones that have already died. I find it hugely motivating.”</p><p>==How do you stay productive?</p><p>Stow your iPhone. “I try to hide, <strong>go dark</strong>. It’s a great ritual to unplug for 3 hours and delete 5 apps on my phone–so I can stop. Phones are designed to be addictive.”</p><p>Break your habits (even good ones) “I constantly reorganize and <strong>redesign</strong> the system I’m using. I might use Post-its one week, and I might draw on my hands for a while. I just keep changing my routine so I will be more <strong>aware.</strong>“</p><p>&nbsp;</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;I came across an article titled “Design Sense” in a FastCompany’s magazine. The topic is about the former president of RISD (Rhode Island School of Design), John Maeda.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="phi-art" scheme="http://www.aepop.com/categories/phi-art/"/>
+    
+    
+      <category term="design" scheme="http://www.aepop.com/tags/design/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Northern Euro Design</title>
+    <link href="http://www.aepop.com/2015/07/28/northern-euro-design/"/>
+    <id>http://www.aepop.com/2015/07/28/northern-euro-design/</id>
+    <published>2015-07-28T05:39:05.000Z</published>
+    <updated>2018-09-30T06:45:46.154Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Denmark"><a href="#Denmark" class="headerlink" title="Denmark"></a>Denmark</h2><h3 id="Hans-Wegner"><a href="#Hans-Wegner" class="headerlink" title="Hans Wegner"></a>Hans Wegner</h3><p>1947 Peacock Chair<br>1949 Folding Chair<br>1949 Round Armchair<br>1951 Pappa Bear Armchair and Ottoman<br>1960 Wishbone Chair<br><a id="more"></a></p><h3 id="Arne-Jacobsen"><a href="#Arne-Jacobsen" class="headerlink" title="Arne Jacobsen"></a>Arne Jacobsen</h3><p>1952 Ant Chair<br>1955 Grand Prix Chair<br>1957 Egg Armchair and Ottoman<br>1957 Swan Armchair</p><h3 id="Verner-Panton"><a href="#Verner-Panton" class="headerlink" title="Verner Panton"></a>Verner Panton</h3><p>1960 Stacking Chair</p><p><hr><br>Photo are taken from the PMA exhibition “Northern Lights: Scandinavian Design” in late 2015.<br><br><br><br></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Denmark&quot;&gt;&lt;a href=&quot;#Denmark&quot; class=&quot;headerlink&quot; title=&quot;Denmark&quot;&gt;&lt;/a&gt;Denmark&lt;/h2&gt;&lt;h3 id=&quot;Hans-Wegner&quot;&gt;&lt;a href=&quot;#Hans-Wegner&quot; class=&quot;headerlink&quot; title=&quot;Hans Wegner&quot;&gt;&lt;/a&gt;Hans Wegner&lt;/h3&gt;&lt;p&gt;1947 Peacock Chair&lt;br&gt;1949 Folding Chair&lt;br&gt;1949 Round Armchair&lt;br&gt;1951 Pappa Bear Armchair and Ottoman&lt;br&gt;1960 Wishbone Chair&lt;br&gt;
+    
+    </summary>
+    
+      <category term="archi-neering" scheme="http://www.aepop.com/categories/archi-neering/"/>
+    
+    
+      <category term="design" scheme="http://www.aepop.com/tags/design/"/>
+    
+  </entry>
+  
+</feed>
