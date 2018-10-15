@@ -1,36 +1,907 @@
-<!DOCTYPE html><html lang="en,default"><head><meta charset="utf-8"><meta name="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="author" content="Victor"><meta name="description"><title>AePoP</title><link rel="icon" href="/favicon.ico"><link rel="canonical" href="http://www.aepop.com/"><link rel="stylesheet" href="/fonts/iconfont/iconfont.css"><link rel="stylesheet" href="/css/style.css"><script type="text/javascript">var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "//hm.baidu.com/hm.js?Your baidu Analytics ID";
-  var s = document.getElementsByTagName("script")[0];
-  s.parentNode.insertBefore(hm, s);
-})();
-</script><script type="text/javascript">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+<!DOCTYPE html>
+<html lang="en,default">
+  <head>
+    
+<meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
 
-ga('create', 'Your Google Analytics ID', 'auto');
-ga('send', 'pageview');</script></head><body ng-app="APP" ng-controller="controllers" ng-class="{'no-overflow': bigshow}"><div id="main" ng-hide="bigshow"><header><a href="http://www.aepop.com" class="logo">AePoP <span class="header-small hide-sm">( Blog on Archi-neering | Phi-Art | Design | City | The Nature of Technology )</span></a><ul class="nav"><li class="nav-link"><a href="/" class="active">Home</a></li><li class="nav-link"><a href="/archives/" target="_self">Archives</a></li><li class="nav-link"><a href="/categories/" target="_self">Categories</a></li><li class="nav-link"><a href="/tags/" target="_self">Tags</a></li><li class="nav-link"><a href="/about/" target="_self">About</a></li></ul></header><section id="container"><ul class="home"><li class="post-item"><article class="post"><h2 class="post-title"><a href="/2016/12/18/Live-and-Life-Will-Give-You-Pictures/" class="post-link">Live and Life Will Give You Pictures</a></h2><span class="post-time">Dec 18, 2016</span><div class="post-content"><p>This year the two exhibitions in Barnes Foundation are great.</p>
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<meta name="theme-color" content="#f8f5ec" />
+<meta name="msapplication-navbutton-color" content="#f8f5ec">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <link rel="alternate" href="/atom.xml" title="AePoP">
+
+
+
+
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?v=2.10.1" />
+
+
+
+<link rel="canonical" href="http://www.aepop.com/"/>
+
+
+
+  <link rel="stylesheet" type="text/css" href="/lib/fancybox/jquery.fancybox.css" />
+
+
+
+
+  <link rel="stylesheet" type="text/css" href="/lib/nprogress/nprogress.min.css" />
+
+
+
+<link rel="stylesheet" type="text/css" href="/css/style.css?v=2.10.1" />
+
+
+
+  
+
+
+
+  <script id="baidu_push">
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+
+
+
+
+
+
+
+<script>
+  window.config = {"title":"AePoP","subtitle":"( Blog on Archi-neering | Phi-Art | Design | City | The Nature of Technology )","description":null,"author":"Victor","language":["en","default"],"timezone":null,"url":"http://www.aepop.com","root":"/","permalink":":year/:month/:day/:title/","permalink_defaults":null,"source_dir":"source","public_dir":"public","tag_dir":"tags","archive_dir":"archives","category_dir":"categories","code_dir":"downloads/code","i18n_dir":":lang","skip_render":null,"new_post_name":":title.md","default_layout":"post","titlecase":false,"external_link":true,"filename_case":0,"render_drafts":false,"post_asset_folder":true,"relative_link":false,"future":true,"highlight":{"enable":true,"auto_detect":false,"line_number":true,"tab_replace":null},"default_category":"uncategorized","category_map":null,"tag_map":null,"date_format":"YYYY-MM-DD","time_format":"HH:mm:ss","per_page":20,"pagination_dir":"page","theme":"even","deploy":{"type":"git","repo":"https://github.com/thinkvic/thinkvic.github.io.git","branch":"master"},"ignore":[],"archive_generator":{"per_page":20,"yearly":false,"monthly":false,"daily":false},"sidebar":true,"category_generator":{"per_page":20},"feed":{"type":"atom","limit":20,"hub":"","content":true,"content_limit":140,"content_limit_delim":"","path":"atom.xml"},"index_generator":{"per_page":20,"order_by":"-date"},"sitemap":{"path":"sitemap.xml"},"tag_generator":{"per_page":20},"marked":{"gfm":true,"pedantic":false,"sanitize":false,"tables":true,"breaks":true,"smartLists":true,"smartypants":true},"server":{"port":4000,"log":false,"ip":"0.0.0.0","compress":false,"header":true},"since":2015,"favicon":"/favicon.ico","rss":"default","menu":{"Home":"/","Archives":"/archives/","Categories":"/categories/","Tags":"/tags/","About":"/about/"},"color":"default","mode":"default","toc":true,"fancybox":true,"pjax":true,"copyright":{"enable":true,"license":"<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc/4.0/\" target=\"_blank\">知识共享署名-非商业性使用 4.0 国际许可协议</a>"},"reward":{"enable":false,"qrCode":{"wechat":null,"alipay":null}},"social":{"email":null,"stack-overflow":null,"twitter":null,"facebook":null,"linkedin":null,"google":null,"github":null,"weibo":null,"zhihu":null,"douban":null,"pocket":null,"tumblr":null,"instagram":null},"leancloud":{"app_id":null,"app_key":null},"baidu_analytics":null,"baidu_verification":null,"google_analytics":null,"google_verification":null,"disqus_shortname":null,"changyan":{"appid":null,"appkey":null},"livere_datauid":null,"version":"2.10.1"};
+</script>
+
+    <title> AePoP </title>
+  </head>
+
+  <body><div id="mobile-navbar" class="mobile-navbar">
+  <div class="mobile-header-logo">
+    <a href="/." class="logo">AePoP</a>
+  </div>
+  <div class="mobile-navbar-icon">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+</div>
+
+<nav id="mobile-menu" class="mobile-menu slideout-menu">
+  <ul class="mobile-menu-list">
+    
+      <a href="/">
+        <li class="mobile-menu-item">
+          
+          
+            Home
+          
+        </li>
+      </a>
+    
+      <a href="/archives/">
+        <li class="mobile-menu-item">
+          
+          
+            Archives
+          
+        </li>
+      </a>
+    
+      <a href="/categories/">
+        <li class="mobile-menu-item">
+          
+          
+            Categories
+          
+        </li>
+      </a>
+    
+      <a href="/tags/">
+        <li class="mobile-menu-item">
+          
+          
+            Tags
+          
+        </li>
+      </a>
+    
+      <a href="/about/">
+        <li class="mobile-menu-item">
+          
+          
+            About
+          
+        </li>
+      </a>
+    
+  </ul>
+</nav>
+
+    <div class="container" id="mobile-panel">
+      <header id="header" class="header"><div class="logo-wrapper">
+  <a href="/." class="logo">AePoP</a>
+</div>
+
+<nav class="site-navbar">
+  
+    <ul id="menu" class="menu">
+      
+        <li class="menu-item">
+          <a class="menu-item-link" href="/">
+            
+            
+              Home
+            
+          </a>
+        </li>
+      
+        <li class="menu-item">
+          <a class="menu-item-link" href="/archives/">
+            
+            
+              Archives
+            
+          </a>
+        </li>
+      
+        <li class="menu-item">
+          <a class="menu-item-link" href="/categories/">
+            
+            
+              Categories
+            
+          </a>
+        </li>
+      
+        <li class="menu-item">
+          <a class="menu-item-link" href="/tags/">
+            
+            
+              Tags
+            
+          </a>
+        </li>
+      
+        <li class="menu-item">
+          <a class="menu-item-link" href="/about/">
+            
+            
+              About
+            
+          </a>
+        </li>
+      
+    </ul>
+  
+</nav>
+
+      </header>
+
+      <main id="main" class="main">
+        <div class="content-wrapper">
+          <div id="content" class="content">
+            
+  
+  <section id="posts" class="posts">
+    
+      
+        
+  <article class="post">
+    <header class="post-header">
+      <h1 class="post-title">
+        
+          <a class="post-link" href="/2016/12/18/Live-and-Life-Will-Give-You-Pictures/">Live and Life Will Give You Pictures</a>
+        
+      </h1>
+
+      <div class="post-meta">
+        <span class="post-time">
+          2016-12-18
+        </span>
+        
+          <span class="post-category">
+            
+              <a href="/categories/phi-art/">phi-art</a>
+            
+          </span>
+        
+        
+      </div>
+    </header>
+
+    
+    
+
+
+    <div class="post-content">
+      
+        
+        
+
+        
+          <p>This year the two exhibitions in Barnes Foundation are great.</p>
 <p>One is about Picasso’s works around WWI time 1912-1924.<br>“Picasso: The Great War, Experimentation and Change”<br>The other is about Masterworks of French Photography 1890-1950.<br>“Live and Life Will Give You Pictures”</p>
 <p>The former gave me insight into Picasso. Wow, we always associate him with cubism. However, he kept experimenting and changing immediately after he established cubism.<br>The latter let me experience first-hand the real photographs about one of my favorite historical periods. I got into such a close contact with figures like Bresson and Brassai. Their masterworks intuitively painted the social and historical contexts of that period.<br>Just like the <a href="http://www.nytimes.com/2016/10/30/arts/design/barnes-foundations-director-aims-to-unpack-the-ideas-in-the-art.html?_r=0" target="_blank" rel="noopener">Barnes’ new director said:</a></p>
 <blockquote>
 <p>“We like to say, ‘We’ve moved, but we didn’t unpack. We want to unpack the ideas in the works themselves. That broader social, historical, ideological context.”</p>
 </blockquote>
-</div></article></li><li class="post-item"><article class="post"><h2 class="post-title"><a href="/2016/11/28/UX-and-Architect/" class="post-link">UX and Architect</a></h2><span class="post-time">Nov 28, 2016</span><div class="post-content"><blockquote>
+
+        
+      
+    </div>
+
+    
+
+    
+
+  </article>
+
+      
+        
+  <article class="post">
+    <header class="post-header">
+      <h1 class="post-title">
+        
+          <a class="post-link" href="/2016/11/28/UX-and-Architect/">UX and Architect</a>
+        
+      </h1>
+
+      <div class="post-meta">
+        <span class="post-time">
+          2016-11-28
+        </span>
+        
+          <span class="post-category">
+            
+              <a href="/categories/archi-neering/">archi-neering</a>
+            
+          </span>
+        
+        
+      </div>
+    </header>
+
+    
+    
+
+
+    <div class="post-content">
+      
+        
+        
+          
+        
+
+        
+          <blockquote>
 <p>“Always design a thing by considering it in its next larger context – a chair in a room, a room in a house, a house in an environment, an environment in a city plan.” Eero Saarinen<br><br><br>“A photograph is nothing more than an image created by light.” “A web application is nothing more than an experience created by design.” Tom Preston-Werner</p>
 </blockquote>
-<p>UX in digital world == Architect in AEC world (domain)</p></div><a href="/2016/11/28/UX-and-Architect/" class="read-more">Read more..</a></article></li><li class="post-item"><article class="post"><h2 class="post-title"><a href="/2016/11/19/MISSING/" class="post-link">MISSING - POEM</a></h2><span class="post-time">Nov 19, 2016</span><div class="post-content"><p>Last week,<br>I saw your left face on the left<br>in the mid night.<br>Yesterday,<br>I saw your left face on the left<br>in the late late night.<br>Today,<br>I could not see you!<br>Tomorrow,<br>I saw your right face on the right<br>in the early early night.<br>Next week,<br>Will I see your right face on the right<br>in the mid night?<br>Where are you?</p>
-</div></article></li><li class="post-item"><article class="post"><h2 class="post-title"><a href="/2016/11/05/Modernism/" class="post-link">Modernism</a></h2><span class="post-time">Nov 5, 2016</span><div class="post-content"></div></article></li><li class="post-item"><article class="post"><h2 class="post-title"><a href="/2016/11/05/Beaux-Arts-Second-Empire/" class="post-link">Beaux-Arts + Second Empire</a></h2><span class="post-time">Nov 5, 2016</span><div class="post-content"><p>Neo-Baroque (Baroque Revival) Second-Empire<br>Neo-Classical Beaux-Arts</p>
+<p>UX in digital world == Architect in AEC world (domain)</p>
+          <div class="read-more">
+            <a href="/2016/11/28/UX-and-Architect/" class="read-more-link">Read more..</a>
+          </div>
+        
+      
+    </div>
+
+    
+
+    
+
+  </article>
+
+      
+        
+  <article class="post">
+    <header class="post-header">
+      <h1 class="post-title">
+        
+          <a class="post-link" href="/2016/11/19/MISSING/">MISSING - POEM</a>
+        
+      </h1>
+
+      <div class="post-meta">
+        <span class="post-time">
+          2016-11-19
+        </span>
+        
+          <span class="post-category">
+            
+              <a href="/categories/poetry/">poetry</a>
+            
+          </span>
+        
+        
+      </div>
+    </header>
+
+    
+    
+
+
+    <div class="post-content">
+      
+        
+        
+
+        
+          <p>Last week,<br>I saw your left face on the left<br>in the mid night.<br>Yesterday,<br>I saw your left face on the left<br>in the late late night.<br>Today,<br>I could not see you!<br>Tomorrow,<br>I saw your right face on the right<br>in the early early night.<br>Next week,<br>Will I see your right face on the right<br>in the mid night?<br>Where are you?</p>
+
+        
+      
+    </div>
+
+    
+
+    
+
+  </article>
+
+      
+        
+  <article class="post">
+    <header class="post-header">
+      <h1 class="post-title">
+        
+          <a class="post-link" href="/2016/11/05/Modernism/">Modernism</a>
+        
+      </h1>
+
+      <div class="post-meta">
+        <span class="post-time">
+          2016-11-05
+        </span>
+        
+          <span class="post-category">
+            
+              <a href="/categories/phi-art/">phi-art</a>
+            
+          </span>
+        
+        
+      </div>
+    </header>
+
+    
+    
+
+
+    <div class="post-content">
+      
+        
+        
+
+        
+          
+        
+      
+    </div>
+
+    
+
+    
+
+  </article>
+
+      
+        
+  <article class="post">
+    <header class="post-header">
+      <h1 class="post-title">
+        
+          <a class="post-link" href="/2016/11/05/Beaux-Arts-Second-Empire/">Beaux-Arts + Second Empire</a>
+        
+      </h1>
+
+      <div class="post-meta">
+        <span class="post-time">
+          2016-11-05
+        </span>
+        
+          <span class="post-category">
+            
+              <a href="/categories/phi-art/">phi-art</a>
+            
+          </span>
+        
+        
+      </div>
+    </header>
+
+    
+    
+
+
+    <div class="post-content">
+      
+        
+        
+
+        
+          <p>Neo-Baroque (Baroque Revival) Second-Empire<br>Neo-Classical Beaux-Arts</p>
 <p>City-Hall 1901<br>Wells Fargo Building 1928</p>
-</div></article></li><li class="post-item"><article class="post"><h2 class="post-title"><a href="/2016/11/05/Arts-and-Crafts/" class="post-link">Arts and Crafts</a></h2><span class="post-time">Nov 5, 2016</span><div class="post-content"></div></article></li><li class="post-item"><article class="post"><h2 class="post-title"><a href="/2016/11/05/Art-Nouveau/" class="post-link">Art Nouveau</a></h2><span class="post-time">Nov 5, 2016</span><div class="post-content"><p>Vienna Secessionists<br>German Jugendstil</p>
-</div></article></li><li class="post-item"><article class="post"><h2 class="post-title"><a href="/2016/11/05/Art-Deco/" class="post-link">Art Deco</a></h2><span class="post-time">Nov 5, 2016</span><div class="post-content"><p>210 W Washington Square<br>Art Institute of Philadelphia<br>Pennsylvania Railroad Suburban Station<br>The Pepper Building 1830 Lombard,  1928, Northup &amp; O’Brien<br>Perelman Building<br></div><a href="/2016/11/05/Art-Deco/" class="read-more">Read more..</a></article></li><li class="post-item"><article class="post"><h2 class="post-title"><a href="/2016/11/01/MY-DEAR-NATURE/" class="post-link">MY DEAR NATURE - POEM</a></h2><span class="post-time">Nov 1, 2016</span><div class="post-content"><p>The nature likes me<br>during all the seasons.<br></div><a href="/2016/11/01/MY-DEAR-NATURE/" class="read-more">Read more..</a></article></li><li class="post-item"><article class="post"><h2 class="post-title"><a href="/2016/10/30/Bob-Dylan-and-william-faulkner/" class="post-link">Bob Dylan and William Faulkner</a></h2><span class="post-time">Oct 30, 2016</span><div class="post-content"><p>Bob Dylan’s Nobel Prize is somewhat surprising.<br>2 years ago, when I walked past the Academy of Music in Philly and  saw that Bob Dylan was holding a concert inside. I was quite surprised and I realized he was actually still healthy and active. This was probably when I was closest to a Nobel Prize winner.<br></div><a href="/2016/10/30/Bob-Dylan-and-william-faulkner/" class="read-more">Read more..</a></article></li><li class="post-item"><article class="post"><h2 class="post-title"><a href="/2016/10/18/Steve-McCurry-s-Afghanistan/" class="post-link">Steve McCurry's Afghanistan</a></h2><span class="post-time">Oct 18, 2016</span><div class="post-content"><p>Unguarded, Untold, Iconic: Afghanistan through the Lens of Steve McCurry</p>
+
+        
+      
+    </div>
+
+    
+
+    
+
+  </article>
+
+      
+        
+  <article class="post">
+    <header class="post-header">
+      <h1 class="post-title">
+        
+          <a class="post-link" href="/2016/11/05/Arts-and-Crafts/">Arts and Crafts</a>
+        
+      </h1>
+
+      <div class="post-meta">
+        <span class="post-time">
+          2016-11-05
+        </span>
+        
+          <span class="post-category">
+            
+              <a href="/categories/phi-art/">phi-art</a>
+            
+          </span>
+        
+        
+      </div>
+    </header>
+
+    
+    
+
+
+    <div class="post-content">
+      
+        
+        
+
+        
+          
+        
+      
+    </div>
+
+    
+
+    
+
+  </article>
+
+      
+        
+  <article class="post">
+    <header class="post-header">
+      <h1 class="post-title">
+        
+          <a class="post-link" href="/2016/11/05/Art-Nouveau/">Art Nouveau</a>
+        
+      </h1>
+
+      <div class="post-meta">
+        <span class="post-time">
+          2016-11-05
+        </span>
+        
+          <span class="post-category">
+            
+              <a href="/categories/phi-art/">phi-art</a>
+            
+          </span>
+        
+        
+      </div>
+    </header>
+
+    
+    
+
+
+    <div class="post-content">
+      
+        
+        
+
+        
+          <p>Vienna Secessionists<br>German Jugendstil</p>
+
+        
+      
+    </div>
+
+    
+
+    
+
+  </article>
+
+      
+        
+  <article class="post">
+    <header class="post-header">
+      <h1 class="post-title">
+        
+          <a class="post-link" href="/2016/11/05/Art-Deco/">Art Deco</a>
+        
+      </h1>
+
+      <div class="post-meta">
+        <span class="post-time">
+          2016-11-05
+        </span>
+        
+          <span class="post-category">
+            
+              <a href="/categories/phi-art/">phi-art</a>
+            
+          </span>
+        
+        
+      </div>
+    </header>
+
+    
+    
+
+
+    <div class="post-content">
+      
+        
+        
+          
+        
+
+        
+          <p>210 W Washington Square<br>Art Institute of Philadelphia<br>Pennsylvania Railroad Suburban Station<br>The Pepper Building 1830 Lombard,  1928, Northup &amp; O’Brien<br>Perelman Building<br>
+          <div class="read-more">
+            <a href="/2016/11/05/Art-Deco/" class="read-more-link">Read more..</a>
+          </div>
+        
+      
+    </div>
+
+    
+
+    
+
+  </article>
+
+      
+        
+  <article class="post">
+    <header class="post-header">
+      <h1 class="post-title">
+        
+          <a class="post-link" href="/2016/11/01/MY-DEAR-NATURE/">MY DEAR NATURE - POEM</a>
+        
+      </h1>
+
+      <div class="post-meta">
+        <span class="post-time">
+          2016-11-01
+        </span>
+        
+          <span class="post-category">
+            
+              <a href="/categories/poetry/">poetry</a>
+            
+          </span>
+        
+        
+      </div>
+    </header>
+
+    
+    
+
+
+    <div class="post-content">
+      
+        
+        
+          
+        
+
+        
+          <p>The nature likes me<br>during all the seasons.<br>
+          <div class="read-more">
+            <a href="/2016/11/01/MY-DEAR-NATURE/" class="read-more-link">Read more..</a>
+          </div>
+        
+      
+    </div>
+
+    
+
+    
+
+  </article>
+
+      
+        
+  <article class="post">
+    <header class="post-header">
+      <h1 class="post-title">
+        
+          <a class="post-link" href="/2016/10/30/Bob-Dylan-and-william-faulkner/">Bob Dylan and William Faulkner</a>
+        
+      </h1>
+
+      <div class="post-meta">
+        <span class="post-time">
+          2016-10-30
+        </span>
+        
+          <span class="post-category">
+            
+              <a href="/categories/poetry/">poetry</a>
+            
+          </span>
+        
+        
+      </div>
+    </header>
+
+    
+    
+
+
+    <div class="post-content">
+      
+        
+        
+          
+        
+
+        
+          <p>Bob Dylan’s Nobel Prize is somewhat surprising.<br>2 years ago, when I walked past the Academy of Music in Philly and  saw that Bob Dylan was holding a concert inside. I was quite surprised and I realized he was actually still healthy and active. This was probably when I was closest to a Nobel Prize winner.<br>
+          <div class="read-more">
+            <a href="/2016/10/30/Bob-Dylan-and-william-faulkner/" class="read-more-link">Read more..</a>
+          </div>
+        
+      
+    </div>
+
+    
+
+    
+
+  </article>
+
+      
+        
+  <article class="post">
+    <header class="post-header">
+      <h1 class="post-title">
+        
+          <a class="post-link" href="/2016/10/18/Steve-McCurry-s-Afghanistan/">Steve McCurry's Afghanistan</a>
+        
+      </h1>
+
+      <div class="post-meta">
+        <span class="post-time">
+          2016-10-18
+        </span>
+        
+          <span class="post-category">
+            
+              <a href="/categories/phi-art/">phi-art</a>
+            
+          </span>
+        
+        
+      </div>
+    </header>
+
+    
+    
+
+
+    <div class="post-content">
+      
+        
+        
+
+        
+          <p>Unguarded, Untold, Iconic: Afghanistan through the Lens of Steve McCurry</p>
 <p>Afghanistan through the lens of McCurry is so beautiful and mystic. I feel the photographs try to grab those deep philosophical concepts. I was fascinated by both the place and the book extracts (Caravans by James A. Michener). It gave me a strong urge to visit the place and read the book. Maybe that’s the magic of art, it inspires you beyond the works itself.</p>
 <blockquote>
 <p>She said that we are essentially desert animals and that life is meant to be harsh. When we live in an oasis like Philadelphia or Munich, we become degenerate and lose touch with our origins.</p>
 </blockquote>
-</div></article></li><li class="post-item"><article class="post"><h2 class="post-title"><a href="/2016/09/30/The-Life-and-Death-of-My-Web/" class="post-link">The Life and Death of My Web</a></h2><span class="post-time">Sep 30, 2016</span><div class="post-content"><p>My website was created in 2014.<br>It went though many rounds of rebirth.<br>Initially, it’s some static web pages with an integrated WordPress blog. The frontend is mostly JQuery-based.<br></div><a href="/2016/09/30/The-Life-and-Death-of-My-Web/" class="read-more">Read more..</a></article></li><li class="post-item"><article class="post"><h2 class="post-title"><a href="/2016/08/30/Pennsylvania-Railroad/" class="post-link">Pennsylvania Railroad</a></h2><span class="post-time">Aug 30, 2016</span><div class="post-content"><p>H.L Mencken’s “The Libido for the Ugly” definitely touches a nerve with me.</p>
-<p>On a Winter day some years ago, coming out of Pittsburgh on one of the expresses of the Pennsylvania Railroad, I rolled eastward for an hour through the coal and steel towns of Westmoreland county.<br></div><a href="/2016/08/30/Pennsylvania-Railroad/" class="read-more">Read more..</a></article></li><li class="post-item"><article class="post"><h2 class="post-title"><a href="/2016/04/08/Bruce-Mau/" class="post-link">Bruce Mau</a></h2><span class="post-time">Apr 8, 2016</span><div class="post-content"><ul>
+
+        
+      
+    </div>
+
+    
+
+    
+
+  </article>
+
+      
+        
+  <article class="post">
+    <header class="post-header">
+      <h1 class="post-title">
+        
+          <a class="post-link" href="/2016/09/30/The-Life-and-Death-of-My-Web/">The Life and Death of My Web</a>
+        
+      </h1>
+
+      <div class="post-meta">
+        <span class="post-time">
+          2016-09-30
+        </span>
+        
+          <span class="post-category">
+            
+              <a href="/categories/archi-neering/">archi-neering</a>
+            
+          </span>
+        
+        
+      </div>
+    </header>
+
+    
+    
+
+
+    <div class="post-content">
+      
+        
+        
+          
+        
+
+        
+          <p>My website was created in 2014.<br>It went though many rounds of rebirth.<br>Initially, it’s some static web pages with an integrated WordPress blog. The frontend is mostly JQuery-based.<br>
+          <div class="read-more">
+            <a href="/2016/09/30/The-Life-and-Death-of-My-Web/" class="read-more-link">Read more..</a>
+          </div>
+        
+      
+    </div>
+
+    
+
+    
+
+  </article>
+
+      
+        
+  <article class="post">
+    <header class="post-header">
+      <h1 class="post-title">
+        
+          <a class="post-link" href="/2016/08/30/Pennsylvania-Railroad/">Pennsylvania Railroad</a>
+        
+      </h1>
+
+      <div class="post-meta">
+        <span class="post-time">
+          2016-08-30
+        </span>
+        
+          <span class="post-category">
+            
+              <a href="/categories/phi-art/">phi-art</a>
+            
+          </span>
+        
+        
+      </div>
+    </header>
+
+    
+    
+
+
+    <div class="post-content">
+      
+        
+        
+          
+        
+
+        
+          <p>H.L Mencken’s “The Libido for the Ugly” definitely touches a nerve with me.</p>
+<p>On a Winter day some years ago, coming out of Pittsburgh on one of the expresses of the Pennsylvania Railroad, I rolled eastward for an hour through the coal and steel towns of Westmoreland county.<br>
+          <div class="read-more">
+            <a href="/2016/08/30/Pennsylvania-Railroad/" class="read-more-link">Read more..</a>
+          </div>
+        
+      
+    </div>
+
+    
+
+    
+
+  </article>
+
+      
+        
+  <article class="post">
+    <header class="post-header">
+      <h1 class="post-title">
+        
+          <a class="post-link" href="/2016/04/08/Bruce-Mau/">Bruce Mau</a>
+        
+      </h1>
+
+      <div class="post-meta">
+        <span class="post-time">
+          2016-04-08
+        </span>
+        
+          <span class="post-category">
+            
+              <a href="/categories/phi-art/">phi-art</a>
+            
+          </span>
+        
+        
+      </div>
+    </header>
+
+    
+    
+
+
+    <div class="post-content">
+      
+        
+        
+          
+        
+
+        
+          <ul>
 <li>Quantify and Visualize. Seeing is believing.<blockquote>
 <p>We are entering the era of big data, and things that we think of as qualitative can be understood quantitatively…social movements, moods, conversations, emotional interactions. We can only see the data and the computational mechanics behind it if we design a visual interface for it.</p>
 </blockquote>
@@ -42,6 +913,457 @@ ga('send', 'pageview');</script></head><body ng-app="APP" ng-controller="control
 </blockquote>
 </li>
 </ul>
-<p>Photo are taken from the PMA exhibition “Work on What You Love: Bruce Mau Rethinking Design” in early 2016.<br></div><a href="/2016/04/08/Bruce-Mau/" class="read-more">Read more..</a></article></li><li class="post-item"><article class="post"><h2 class="post-title"><a href="/2015/12/28/fixing-flat-tires-and-fixing-bugs-easy/" class="post-link">Fixing flat tires and fixing bugs. Easy?</a></h2><span class="post-time">Dec 28, 2015</span><div class="post-content"><p>Anybody who works in the IT field will have the experience of fixing bugs. Sometimes, you or your boss think a bug is so easy and think it could be fixed in a second. It turns out to be a days-long job and … nightmare.<br></div><a href="/2015/12/28/fixing-flat-tires-and-fixing-bugs-easy/" class="read-more">Read more..</a></article></li><li class="post-item"><article class="post"><h2 class="post-title"><a href="/2015/11/01/PSFS/" class="post-link">PSFS</a></h2><span class="post-time">Nov 1, 2015</span><div class="post-content"><p>I was able to see the antenna spire - “shining beacon” at night when I lived in the city.<br>First modernism high-rise. It is indeed a shining beacon for the future tall buildings. Its influence is still felt today.</p>
+<p>Photo are taken from the PMA exhibition “Work on What You Love: Bruce Mau Rethinking Design” in early 2016.<br>
+          <div class="read-more">
+            <a href="/2016/04/08/Bruce-Mau/" class="read-more-link">Read more..</a>
+          </div>
+        
+      
+    </div>
+
+    
+
+    
+
+  </article>
+
+      
+        
+  <article class="post">
+    <header class="post-header">
+      <h1 class="post-title">
+        
+          <a class="post-link" href="/2015/12/28/fixing-flat-tires-and-fixing-bugs-easy/">Fixing flat tires and fixing bugs. Easy?</a>
+        
+      </h1>
+
+      <div class="post-meta">
+        <span class="post-time">
+          2015-12-28
+        </span>
+        
+          <span class="post-category">
+            
+              <a href="/categories/archi-neering/">archi-neering</a>
+            
+          </span>
+        
+        
+      </div>
+    </header>
+
+    
+    
+
+
+    <div class="post-content">
+      
+        
+        
+          
+        
+
+        
+          <p>Anybody who works in the IT field will have the experience of fixing bugs. Sometimes, you or your boss think a bug is so easy and think it could be fixed in a second. It turns out to be a days-long job and … nightmare.<br>
+          <div class="read-more">
+            <a href="/2015/12/28/fixing-flat-tires-and-fixing-bugs-easy/" class="read-more-link">Read more..</a>
+          </div>
+        
+      
+    </div>
+
+    
+
+    
+
+  </article>
+
+      
+        
+  <article class="post">
+    <header class="post-header">
+      <h1 class="post-title">
+        
+          <a class="post-link" href="/2015/11/01/PSFS/">PSFS</a>
+        
+      </h1>
+
+      <div class="post-meta">
+        <span class="post-time">
+          2015-11-01
+        </span>
+        
+          <span class="post-category">
+            
+              <a href="/categories/archi-neering/">archi-neering</a>
+            
+          </span>
+        
+        
+      </div>
+    </header>
+
+    
+    
+
+
+    <div class="post-content">
+      
+        
+        
+          
+        
+
+        
+          <p>I was able to see the antenna spire - “shining beacon” at night when I lived in the city.<br>First modernism high-rise. It is indeed a shining beacon for the future tall buildings. Its influence is still felt today.</p>
 <blockquote>
-<p>The Functional architect delights in the huge torso swaying on tendoned ankles. He wourld no more attach false stone pedestals on them than he would put lead shoes on Pegasus. –George Howe<br></div><a href="/2015/11/01/PSFS/" class="read-more">Read more..</a></article></li><li class="post-item"><article class="post"><h2 class="post-title"><a href="/2015/10/27/from-phonograph-to-cd/" class="post-link">From Phonograph to CD</a></h2><span class="post-time">Oct 27, 2015</span><div class="post-content"><p>When I inserted a dusty old CD into my computer today (my CD drive in my laptop has not been used for over 2 years, gladly it still run), magically some beautiful rhythm from Celine Dion just refreshed the air in my room. Oh, that’s Titanic’s theme song, “My heart will go on.” The music dragged me back to my middle school. That’s the time when Titanic got really popular and I just started learning ABC in English. I remember one of my classmates and I shouting the song in the classroom after school. OK, it also made me wonder how does this magic happen, really?<br></div><a href="/2015/10/27/from-phonograph-to-cd/" class="read-more">Read more..</a></article></li><li class="post-item"><article class="post"><h2 class="post-title"><a href="/2015/09/20/95-years-ago-albert-barnes-letter-to-mrs-dewey/" class="post-link">95 Years Ago: Albert Barnes' letter to Mrs Dewey</a></h2><span class="post-time">Sep 20, 2015</span><div class="post-content"><p>There are always some interesting coincidence in my life. In early August, I happened to find an Albert Barnes’ letter to Mrs Dewey (John Dewey’s wife) at Barnes Foundation and was really surprised at Mr. Barnes insight into education.<br></div><a href="/2015/09/20/95-years-ago-albert-barnes-letter-to-mrs-dewey/" class="read-more">Read more..</a></article></li><li class="post-item"><article class="post"><h2 class="post-title"><a href="/2015/08/26/maedas-design-sense/" class="post-link">Maeda's Design Sense</a></h2><span class="post-time">Aug 26, 2015</span><div class="post-content"><p>I came across an article titled “Design Sense” in a FastCompany’s magazine. The topic is about the former president of RISD (Rhode Island School of Design), John Maeda.<br></div><a href="/2015/08/26/maedas-design-sense/" class="read-more">Read more..</a></article></li><li class="post-item"><article class="post"><h2 class="post-title"><a href="/2015/07/28/northern-euro-design/" class="post-link">Northern Euro Design</a></h2><span class="post-time">Jul 28, 2015</span><div class="post-content"><h2 id="Denmark"><a href="#Denmark" class="headerlink" title="Denmark"></a>Denmark</h2><h3 id="Hans-Wegner"><a href="#Hans-Wegner" class="headerlink" title="Hans Wegner"></a>Hans Wegner</h3><p>1947 Peacock Chair<br>1949 Folding Chair<br>1949 Round Armchair<br>1951 Pappa Bear Armchair and Ottoman<br>1960 Wishbone Chair<br></div><a href="/2015/07/28/northern-euro-design/" class="read-more">Read more..</a></article></li></ul><div class="paginator"><a href="/page/2/" class="next"><span>Next</span><i class="iconfont icon-right"></i></a></div></section><footer><div class="copyright"><!--p.power--><!--  != "Powered by "--><!--  a(href="https://hexo.io/")--><!--    != "Hexo"--><!--  != " and Theme by "--><!--  a(href="")--><!--    != "Even-Better"--><p class="since">&copy;2018<span class="heart"><i class="iconfont icon-heart"></i></span><span class="author">Victor</span></p></div><label id="back2top"><i class="iconfont icon-up"></i></label></footer></div><div id="canvas" ng-if="bigshow" detail-swipe><div class="detail"><img src="/css/arrow.svg" ng-click="detailprev()" class="arrow-left"><span>&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;</span><img src="/css/arrow.svg" ng-click="detailnext()" class="arrow"><!--p(class="detail-desc") {{count}}--><div ng-click="hidebig()"><img ng-src="{{currentimg.url}}" class="whole-img whole-img-rsp"></div></div></div><script src="/js/zepto.min.js"></script><script src="/js/theme.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.6/angular.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.6/angular-animate.min.js"></script><script src="https://hammerjs.github.io/dist/hammer.js"></script><script src="/js/app.js"></script><script>console.log("you are awesome")</script></body></html>
+<p>The Functional architect delights in the huge torso swaying on tendoned ankles. He wourld no more attach false stone pedestals on them than he would put lead shoes on Pegasus. –George Howe<br>
+          <div class="read-more">
+            <a href="/2015/11/01/PSFS/" class="read-more-link">Read more..</a>
+          </div>
+        
+      
+    </div>
+
+    
+
+    
+
+  </article>
+
+      
+        
+  <article class="post">
+    <header class="post-header">
+      <h1 class="post-title">
+        
+          <a class="post-link" href="/2015/10/27/from-phonograph-to-cd/">From Phonograph to CD</a>
+        
+      </h1>
+
+      <div class="post-meta">
+        <span class="post-time">
+          2015-10-27
+        </span>
+        
+          <span class="post-category">
+            
+              <a href="/categories/archi-neering/">archi-neering</a>
+            
+          </span>
+        
+        
+      </div>
+    </header>
+
+    
+    
+
+
+    <div class="post-content">
+      
+        
+        
+          
+        
+
+        
+          <p>When I inserted a dusty old CD into my computer today (my CD drive in my laptop has not been used for over 2 years, gladly it still run), magically some beautiful rhythm from Celine Dion just refreshed the air in my room. Oh, that’s Titanic’s theme song, “My heart will go on.” The music dragged me back to my middle school. That’s the time when Titanic got really popular and I just started learning ABC in English. I remember one of my classmates and I shouting the song in the classroom after school. OK, it also made me wonder how does this magic happen, really?<br>
+          <div class="read-more">
+            <a href="/2015/10/27/from-phonograph-to-cd/" class="read-more-link">Read more..</a>
+          </div>
+        
+      
+    </div>
+
+    
+
+    
+
+  </article>
+
+      
+        
+  <article class="post">
+    <header class="post-header">
+      <h1 class="post-title">
+        
+          <a class="post-link" href="/2015/09/20/95-years-ago-albert-barnes-letter-to-mrs-dewey/">95 Years Ago: Albert Barnes' letter to Mrs Dewey</a>
+        
+      </h1>
+
+      <div class="post-meta">
+        <span class="post-time">
+          2015-09-20
+        </span>
+        
+          <span class="post-category">
+            
+              <a href="/categories/phi-art/">phi-art</a>
+            
+          </span>
+        
+        
+      </div>
+    </header>
+
+    
+    
+
+
+    <div class="post-content">
+      
+        
+        
+          
+        
+
+        
+          <p>There are always some interesting coincidence in my life. In early August, I happened to find an Albert Barnes’ letter to Mrs Dewey (John Dewey’s wife) at Barnes Foundation and was really surprised at Mr. Barnes insight into education.<br>
+          <div class="read-more">
+            <a href="/2015/09/20/95-years-ago-albert-barnes-letter-to-mrs-dewey/" class="read-more-link">Read more..</a>
+          </div>
+        
+      
+    </div>
+
+    
+
+    
+
+  </article>
+
+      
+        
+  <article class="post">
+    <header class="post-header">
+      <h1 class="post-title">
+        
+          <a class="post-link" href="/2015/08/26/maedas-design-sense/">Maeda's Design Sense</a>
+        
+      </h1>
+
+      <div class="post-meta">
+        <span class="post-time">
+          2015-08-26
+        </span>
+        
+          <span class="post-category">
+            
+              <a href="/categories/phi-art/">phi-art</a>
+            
+          </span>
+        
+        
+      </div>
+    </header>
+
+    
+    
+
+
+    <div class="post-content">
+      
+        
+        
+          
+        
+
+        
+          <p>I came across an article titled “Design Sense” in a FastCompany’s magazine. The topic is about the former president of RISD (Rhode Island School of Design), John Maeda.<br>
+          <div class="read-more">
+            <a href="/2015/08/26/maedas-design-sense/" class="read-more-link">Read more..</a>
+          </div>
+        
+      
+    </div>
+
+    
+
+    
+
+  </article>
+
+      
+        
+  <article class="post">
+    <header class="post-header">
+      <h1 class="post-title">
+        
+          <a class="post-link" href="/2015/07/28/northern-euro-design/">Northern Euro Design</a>
+        
+      </h1>
+
+      <div class="post-meta">
+        <span class="post-time">
+          2015-07-28
+        </span>
+        
+          <span class="post-category">
+            
+              <a href="/categories/archi-neering/">archi-neering</a>
+            
+          </span>
+        
+        
+      </div>
+    </header>
+
+    
+    
+
+
+    <div class="post-content">
+      
+        
+        
+          
+        
+
+        
+          <h2 id="Denmark"><a href="#Denmark" class="headerlink" title="Denmark"></a>Denmark</h2><h3 id="Hans-Wegner"><a href="#Hans-Wegner" class="headerlink" title="Hans Wegner"></a>Hans Wegner</h3><p>1947 Peacock Chair<br>1949 Folding Chair<br>1949 Round Armchair<br>1951 Pappa Bear Armchair and Ottoman<br>1960 Wishbone Chair<br>
+          <div class="read-more">
+            <a href="/2015/07/28/northern-euro-design/" class="read-more-link">Read more..</a>
+          </div>
+        
+      
+    </div>
+
+    
+
+    
+
+  </article>
+
+      
+      
+  <nav class="pagination">
+    
+    
+      <a class="next" href="/page/2/">
+        <span class="next-text">Next</span>
+        <i class="iconfont icon-right"></i>
+      </a>
+    
+  </nav>
+
+
+    
+  </section>
+
+          </div>
+          
+
+        </div>
+      </main>
+
+      <footer id="footer" class="footer">
+
+  <div class="social-links">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+
+    
+      <a href="/atom.xml" class="iconfont icon-rss" title="rss"></a>
+    
+  </div>
+
+
+
+<div class="copyright">
+  <span class="power-by">
+    Powered by <a class="hexo-link" href="https://hexo.io/">Hexo</a>
+  </span>
+  <span class="division">|</span>
+  <span class="theme-info">
+    Theme - 
+    <a class="theme-link" href="https://github.com/ahonn/hexo-theme-even">Even</a>
+  </span>
+
+  <span class="copyright-year">
+    
+    &copy; 
+     
+      2015 - 
+    
+    2018
+
+    <span class="heart">
+      <i class="iconfont icon-heart"></i>
+    </span>
+    <span class="author">Victor</span>
+  </span>
+</div>
+
+      </footer>
+
+      <div class="back-to-top" id="back-to-top">
+        <i class="iconfont icon-up"></i>
+      </div>
+    </div>
+
+    
+
+
+    
+  
+
+
+
+  
+  
+
+
+
+
+
+  
+    <script type="text/javascript" src="/lib/jquery/jquery.min.js"></script>
+  
+
+  
+    <script type="text/javascript" src="/lib/slideout/slideout.js"></script>
+  
+
+  
+    <script type="text/javascript" src="/lib/fancybox/jquery.fancybox.pack.js"></script>
+  
+
+  
+    <script type="text/javascript" src="/lib/pjax/jquery.pjax.min.js"></script>
+  
+
+  
+    <script type="text/javascript" src="/lib/nprogress/nprogress.min.js"></script>
+  
+
+
+    <script type="text/javascript" src="/js/src/even.js?v=2.10.1"></script>
+
+  </body>
+</html>
